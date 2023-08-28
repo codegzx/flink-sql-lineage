@@ -20,7 +20,7 @@ The core idea is to parse SQL through Calcite to generate a RelNode tree of rela
 Source Address: https://github.com/HamaWhiteGG/flink-sql-lineage
 
 Author Email: baisongxx@gmail.com
-123
+
 ## 一、Basic introduction
 ### 1.1 Introduction to Apache Calcite
 Apache Calcite is an open source dynamic data management framework that provides a standard SQL language, multiple query optimizations, and the ability to connect to various data sources, but does not include data storage, algorithms for processing data, and repositories for storing metadata.
