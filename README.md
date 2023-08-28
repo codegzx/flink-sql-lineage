@@ -14,7 +14,7 @@ The core idea is to parse SQL through Calcite to generate a RelNode tree of rela
 | 5 | HamaWhite | 3.0.0 | 2023-01-03 | 1. Support displaying transform between fields |
 | 6 | HamaWhite | 3.0.1 | 2023-01-12 | 1. Remove unit test's dependence on external environment |
 
-12345677
+
 
 </br>
 Source Address: https://github.com/HamaWhiteGG/flink-sql-lineage
